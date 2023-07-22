@@ -7,13 +7,13 @@ charset-normalizer
 click
 colorama
 decorator
-gitdb0
-GitPython2
+gitdb
+GitPython
 idna
 importlib-metadata
 Jinja2
 joblib
-jsonschema4
+jsonschema
 jsonschema-specifications
 markdown-it-py
 MarkupSafe
